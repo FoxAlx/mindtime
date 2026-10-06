@@ -1,0 +1,34 @@
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+*.hprof
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Android signing files
+*.jks
+*.keystore
+keystore.properties
+
+# Xcode / iOS
+DerivedData/
+**/xcuserdata/
+*.xcuserstate
+*.xcarchive/
+*.ipa
+*.dSYM/
+*.dSYM.zip
+
+# macOS
+.DS_Store
+
+# Editor / OS
+.vscode/
+Thumbs.db
+Desktop.ini
